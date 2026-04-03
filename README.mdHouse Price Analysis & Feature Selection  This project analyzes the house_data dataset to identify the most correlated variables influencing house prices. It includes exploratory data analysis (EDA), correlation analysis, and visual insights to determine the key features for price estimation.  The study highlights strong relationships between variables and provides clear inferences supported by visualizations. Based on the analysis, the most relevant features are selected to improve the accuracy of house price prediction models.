@@ -1,0 +1,5 @@
+House Price Analysis & Feature Selection
+
+This project analyzes the dataset to identify the most correlated variables influencing house prices. It includes exploratory data analysis (EDA), correlation analysis, and visual insights to determine the key features for price estimation.
+
+The study highlights strong relationships between variables and provides clear inferences supported by visualizations. Based on the analysis, the most relevant features are selected to improve the accuracy of house price prediction models.
